@@ -1,0 +1,59 @@
+Project: Online Shopping Cart Application
+
+Objective:
+
+Design and implement an online shopping cart application in Java that allows users to browse products, add products to their cart, remove products from their cart, view their cart, and calculate the total cost of the products in their cart.
+
+Project Specifications:
+
+1. The application should have the following features:
+    - Product Management: The application should have a list of products with their IDs, names, and prices.
+    - Shopping Cart Management: The application should allow users to add products to their cart, remove products from their cart, view their cart, and calculate the total cost of the products in their cart.
+2. The application should use Java Collections Framework (JCF) to store and manage products and shopping cart data.
+3. The application should provide a user-friendly interface to interact with the online shopping cart system.
+
+Class Names:
+
+1. Product: Represents a product with attributes like ID, name, and price.
+2. ShoppingCart: Manages the shopping cart with methods to add, remove, view, and calculate the total cost of products.
+
+Object Names:
+
+1. productList: A list of products available in the application.
+2. cart: A shopping cart object that stores products added by the user.
+
+Variable Names:
+
+1. productId: A unique identifier for each product.
+2. productName: The name of a product.
+3. productPrice: The price of a product.
+4. cartTotal: The total cost of products in the shopping cart.
+
+Method Names:
+
+1. addProduct(): Adds a product to the shopping cart.
+2. removeProduct(): Removes a product from the shopping cart.
+3. viewCart(): Displays the products in the shopping cart.
+4. calculateTotal(): Calculates the total cost of products in the shopping cart.
+
+Additional Requirements:
+
+1. Use Java Collections Framework (JCF) to store and manage products and shopping cart data.
+2. Provide a user-friendly interface to interact with the online shopping cart system.
+3. Handle exceptions and errors properly to ensure the system remains stable.
+
+Grading Criteria:
+
+1. Correctness and functionality of the system.
+2. Code quality, organization, and maintainability.
+3. Effective use of Java Collections Framework (JCF).
+4. Error handling and exception management.
+5. User interface and user experience.
+
+Submission Requirements:
+
+1. Submit the complete source code for the system.
+2. Include a brief report explaining the design and implementation of the system.
+3. Demonstrate the functionality of the system.
+
+This project-based learning assignment question provides students with a real-world scenario to design and implement an online shopping cart application, allowing them to apply their Java programming skills and learn about Java Collections Framework (JCF).
